@@ -1,4 +1,2 @@
 # hello-world
-world
-yeah ,what   more  to  say   i   was  hungry, 
-therefore i  was  rummaging
+it's an  sorted  list  and  it's usage
